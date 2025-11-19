@@ -1,4 +1,5 @@
 # Power-BI-Sales-Analytics-Dashboard
+https://github.com/shailendra2645/Power-BI-Sales-Analytics-Dashboard/blob/main/Orders%20Data.xlsx
 
 This repository contains an interactive Sales Analytics Dashboard created in Power BI, designed to analyze product sales, quantity sold, and profit distribution across various categories and U.S. states.
 The dashboard provides a clear, visually appealing overview of key business metrics using charts, donut visuals, KPIs, and a geographic map.
